@@ -377,9 +377,9 @@ static int ventoy_hwinfo_init(void)
 static global_var_cfg g_global_vars[] = 
 {
     { "gfxmode",            "1024x768",   NULL },
-    { ventoy_left_key,      "5%",         NULL },
-    { ventoy_top_key,       "95%",        NULL },
-    { ventoy_color_key,     "#ffffff",    NULL },
+    { ventoy_left_key,      "50%",         NULL },
+    { ventoy_top_key,       "80%",        NULL },
+    { ventoy_color_key,     "#b0b0b0",    NULL },
     { NULL,                 NULL,         NULL }
 };
 
