@@ -21,14 +21,6 @@ jobs:
         path: INSTALL/ventoy-*windows*
     - uses: actions/upload-artifact@v2
       with:
-        name: ventoy-linux
-        path: INSTALL/ventoy-*linux*
-    - uses: actions/upload-artifact@v2
-      with:
-        name: ventoy-livecd
-        path: INSTALL/ventoy-*livecd*
-    - uses: actions/upload-artifact@v2
-      with:
         name: SHA256SUM
         path: INSTALL/sha256.txt
     - uses: actions/upload-artifact@v2
