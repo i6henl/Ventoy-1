@@ -46,7 +46,7 @@ terminal-box: "terminal_box_*.png"
 }
 
 + hbox{ 
-    left = 28%
+    left = 18%
     top = 95%
     width = 10%
     height = 25
@@ -55,7 +55,7 @@ terminal-box: "terminal_box_*.png"
 
 
 + hbox{ 
-    left = 30%
+    left = 20%
     top = 95%-25
     width = 10%
     height = 25
@@ -64,7 +64,7 @@ terminal-box: "terminal_box_*.png"
 
 
 + hbox{ 
-    left = 30%
+    left = 20%
     top = 95%-50
     width = 10%
     height = 25
@@ -73,7 +73,7 @@ terminal-box: "terminal_box_*.png"
 
 
 + hbox{ 
-    left = 30%+200
+    left = 20%+200
     top = 95%-50
     width = 10%
     height = 25
@@ -81,7 +81,7 @@ terminal-box: "terminal_box_*.png"
 }
 
 + hbox{ 
-    left = 30%+200
+    left = 20%+200
     top = 95%-25
     width = 10%
     height = 25
@@ -89,7 +89,7 @@ terminal-box: "terminal_box_*.png"
 }
 
 + hbox{ 
-    left = 90%
+    left = 80%
     top = 55 
     width = 10%
     height = 25
