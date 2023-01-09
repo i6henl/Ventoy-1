@@ -46,8 +46,8 @@ terminal-box: "terminal_box_*.png"
 }
 
 + hbox{ 
-    left = 18%
-    top = 95%
+    left = 20%
+    top = 89%
     width = 10%
     height = 25
     + label {text = "@VTOY_HOTKEY_TIP@" color = "white" align = "left"} 
@@ -56,7 +56,7 @@ terminal-box: "terminal_box_*.png"
 
 + hbox{ 
     left = 20%
-    top = 95%-25
+    top = 89%-25
     width = 10%
     height = 25
     + label {text = "@VTOY_MEM_DISK@" color = "red" align = "left"} 
@@ -65,7 +65,7 @@ terminal-box: "terminal_box_*.png"
 
 + hbox{ 
     left = 20%
-    top = 95%-50
+    top = 89%-50
     width = 10%
     height = 25
     + label {text = "@VTOY_ISO_RAW@" color = "red" align = "left"} 
@@ -74,7 +74,7 @@ terminal-box: "terminal_box_*.png"
 
 + hbox{ 
     left = 20%+200
-    top = 95%-50
+    top = 89%-50
     width = 10%
     height = 25
     + label {text = "@VTOY_GRUB2_MODE@" color = "red" align = "left"} 
@@ -82,7 +82,7 @@ terminal-box: "terminal_box_*.png"
 
 + hbox{ 
     left = 20%+200
-    top = 95%-25
+    top = 89%-25
     width = 10%
     height = 25
     + label {text = "@VTOY_WIMBOOT_MODE@" color = "red" align = "left"} 
